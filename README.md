@@ -146,5 +146,5 @@ python main.py
 
 ## 👨‍💻 Author
 
-Garv Mehra  
-B.Tech CSE | QA & Automation Enthusiast  
+Parag Jhala
+B.Tech CSE | DigiValet 
